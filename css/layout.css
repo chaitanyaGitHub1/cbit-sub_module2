@@ -1,0 +1,322 @@
+@charset "utf-8";
+/*
+Template Name: Academic Education V2
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+File: Layout CSS
+*/
+
+
+
+.wrapper {
+	position: relative;
+	z-index: 2;
+    height: 200px;
+    padding: 10px;
+    margin: 0.5rem;
+    color: darkolivegreen;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+
+}
+
+/* .wrapper h1 {
+	
+    position: absolute;
+
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin-left: 0;
+} */
+
+.wrapper img {
+  max-width: 100%;
+} 
+
+
+
+
+  
+  
+
+
+/* Navigation
+--------------------------------------------------------------------------------------------------------------- */
+
+nav ul,
+nav ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#mainav .drop::after,
+#mainav li li .drop::after,
+#breadcrumb li a::after,
+.sidebar nav a::after {
+    /* position: absolute; */
+    font-family: "FontAwesome";
+    font-size: 10px;
+    line-height: 30px;
+}
+
+/* Top Navigation */
+
+#mainav {
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 100%;
+}
+
+#mainav ul {
+    top: 30px;
+}
+
+#mainav ul ul {
+    z-index: 9999;
+    position: absolute;
+    width: 200px;
+}
+
+#mainav ul ul ul {
+    left: 200px;
+    top: 0;
+}
+
+#mainav li {
+
+    display: inline-block;
+    position: relative;
+    margin: 0 20px 0 0;
+    padding: 0;
+}
+
+#mainav li:last-child {
+    margin-right: 0;
+}
+
+#mainav li li {
+    width: 100%;
+    margin: 0;
+    /* text-align: left; */
+    text-transform: none;
+}
+
+#mainav li a {
+    /* display: block; */
+    padding: 0;
+}
+
+#mainav li li a {
+    border: solid;
+    border-width: 0 0 1px 0;
+}
+
+#mainav li li:last-child a {
+    border-bottom: none;
+}
+
+#mainav .drop {
+    padding-left: 15px;
+}
+
+#mainav li li a,
+#mainav li li .drop {
+    display: block;
+    margin: 0;
+    padding: 10px 15px;
+}
+
+#mainav .drop::after,
+#mainav li li .drop::after {
+    content: "\f0d7";
+}
+
+#mainav .drop::after {
+    top: 5px;
+    left: 5px;
+}
+
+#mainav li li .drop::after {
+    top: 15px;
+    left: 5px;
+}
+
+#mainav ul ul {
+    display: none;
+}
+
+#mainav ul li:hover > ul {
+    display: block;
+}
+
+#mainav ul li a:hover {
+    color: white !important;
+}
+
+#mainav form {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* ------------------------------------------------------------------------------------------------------------ */
+
+/* Rounded Corners
+--------------------------------------------------------------------------------------------------------------- */
+
+
+#header button,
+#footer button {
+    border-radius: 0 8px 8px 0;
+}
+
+#mainav li li:last-child a {
+    border-radius: 0 0 8px 8px;
+}
+
+#mainav li li:first-child a
+{
+    border-radius: 8px 8px 0 0;
+}
+
+
+
+
+
+a {
+    color: #55ABDA;
+}
+
+hr,
+.borderedbox {
+    border-color: #D7D7D7;
+}
+
+label span {
+    color: #FF0000;
+    background-color: inherit;
+}
+
+.rounded {
+    color: inherit;
+    background-color: #F9F9F9;
+}
+
+
+/* Rows */
+
+
+/* Top Bar */
+
+#topbar li {
+    border-color: #FFFFFF;
+}
+
+
+
+
+
+/* Navigation */
+
+#mainav li a {
+    color: #F9F9F9;
+}
+
+#mainav .active a,
+#mainav a:hover,
+#mainav li:hover > a {
+    color: #55ABDA;
+    background-color: inherit;
+}
+
+#mainav li li a,
+#mainav .active li a {
+    color: #FFFFFF;
+    background-color: rgba(0, 0, 0, .9);
+    border-color: rgba(0, 0, 0, .6);
+}
+
+#mainav li li:hover > a,
+#mainav .active .active > a {
+    color: #FFFFFF;
+    background-color: #55ABDA;
+}
+
+    /* Desktops and laptops ----------- */
+    @media only screen 
+    and (min-width : 1224px) {
+        .wrapper {
+            position: relative;
+            z-index: 2;
+            height: 100px;
+            padding: 10px;
+            margin: 0.5rem;
+            font-size: 45px;
+            color: darkolivegreen;
+            /* font-size: 35px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size-adjust: inherit; */
+       
+        }
+        
+        .wrapper p {
+            
+            position: absolute;
+        
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            margin-left: 0;
+        }
+        
+        .wrapper img {
+            position: absolute;
+            top: 50%;
+            left: 0;
+            transform: translate(10%, -50%);
+        } 
+        
+        
+        
+    }
+
+    /* Large screens ----------- */
+    @media only screen 
+    and (min-width : 1824px) {
+    /* Styles */
+    }
+
+
+
+
+  /* Ipad and tablet */
+  @media (max-width: 960px) {    
+     
+   }
+   
+   /* smart phones */
+   @media (max-width: 700px) {
+   
+
+    #mainav li {
+
+        text-align: center;
+        display: block;
+        position: relative;
+        margin: 0 20px 0 0;
+        padding: 0;
+    }
+
+    
+#mainav .drop {
+    padding-left: 150px;
+    border-style: solid;
+  border-width: 0px 0px  2px;
+}
+   }
+   

@@ -1,0 +1,2161 @@
+{
+    "sports": [
+        {
+            "title": "Football",
+            "description": "Football, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team's goal.",
+            "photograph": "1.jpg",
+
+            "winners": 
+                {
+                    "students": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Keerthi nika",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Shiva Bharath",
+                                        "department": "PRO",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9911196899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Rohit Linga",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chlar Karthik",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912896899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Navya Bharathi",
+                                        "department": "Bio",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": {
+                                "first":[ 
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    } ]
+                                ,
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    
+                }
+            ,
+            "participated": 
+                {
+                    "students": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    
+                }
+            
+        },
+        {
+            "title": "Cricket",
+            "description": "Cricket, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team's goal.",
+            "photograph": "2.jpg",
+            "winners": 
+                {
+                    "students": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Keerthi nika",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Shiva Bharath",
+                                        "department": "PRO",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9911196899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Rohit Linga",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chlar Karthik",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912896899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Navya Bharathi",
+                                        "department": "Bio",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    
+                }
+            ,
+            "participated": 
+                {
+                    "students": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    
+                }
+            
+        },
+        {
+            "title": "Basketball",
+            "description": "Basketball, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team's goal.",
+            "photograph": "3.jpg",
+            "winners": 
+                {
+                    "students": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Keerthi nika",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Shiva Bharath",
+                                        "department": "PRO",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9911196899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Rohit Linga",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chlar Karthik",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912896899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Navya Bharathi",
+                                        "department": "Bio",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    
+                }
+            ,
+            "participated": 
+                {
+                    "students": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    
+                }
+            
+        },
+        {
+            "title": "Badminton",
+            "description": "Badminton, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team's goal.",
+            "photograph": "4.jpg",
+            "winners": 
+                {
+                    "students": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Keerthi nika",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Shiva Bharath",
+                                        "department": "PRO",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9911196899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Rohit Linga",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chlar Karthik",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912896899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Navya Bharathi",
+                                        "department": "Bio",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    
+                }
+            ,
+            "participated": 
+                {
+                    "students": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    
+                }
+            
+        },
+        
+        {
+            "title": "Chess",
+            "description": "Chess, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms, try to maneuver the ball into the opposing team's goal.",
+            "photograph": "5.jpg",
+            "winners": 
+                {
+                    "students": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Keerthi nika",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Shiva Bharath",
+                                        "department": "PRO",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9911196899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Rohit Linga",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chlar Karthik",
+                                        "department": "EEE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912896899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Navya Bharathi",
+                                        "department": "Bio",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "eighteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            },
+                            "nignteen": {
+                                "first": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "second": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ],
+                                "third": [
+                                    {
+                                        "name": "Chaitanya Bharathi",
+                                        "department": "CSE",
+                                        "age": 19,
+                                        "height": 5.7,
+                                        "weight": 62,
+                                        "contact": 9912696899,
+                                        "mailId": "chait.bha@cbit.com"
+                                    }
+                                ]
+                            }
+                        }
+                    
+                }
+            ,
+            "participated": 
+                {
+                    "students": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    ,
+                    "faculty": 
+                        {
+                            "seventeen": [
+                                {
+                                    "id": 1,
+                                    "name": "Nirmal Jhon",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Prathyusha Koduthi",
+                                    "department": "IT",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Hari Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "eighteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Sai Keerthana",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Doh Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gagan Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ],
+                            "nignteen": [
+                                {
+                                    "id": 1,
+                                    "name": "Kiran Reddy",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Lela Bhasco",
+                                    "department": "CSE",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chaitanya Krishna",
+                                    "department": "MEC",
+                                    "age": 19,
+                                    "height": 5.7,
+                                    "weight": 62,
+                                    "contact": 9912696899,
+                                    "mailId": "chait.bha@cbit.com"
+                                }
+                            ]
+                        }
+                    
+                }
+            
+        }
+    ]
+}
