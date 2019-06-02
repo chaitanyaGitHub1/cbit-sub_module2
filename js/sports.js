@@ -1,9 +1,15 @@
-    
+
+  document.addEventListener('DOMContentLoaded', (event) => {
+  fetchRestaurants();
+
+  });
+
+      
   /**
    * Fetch all restaurants.
    */
   function fetchRestaurants() {
-    fetch('../sports.json')
+    fetch('sports.json')
     .then((res) => res.json())
     .then((data) => {
      console.log(data)
@@ -15,10 +21,6 @@
     })
   }
 
-  document.addEventListener('DOMContentLoaded', (event) => {
-  fetchRestaurants();
-
-  });
 
 /**
  * Create restaurant HTML.
