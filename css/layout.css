@@ -16,22 +16,15 @@ File: Layout CSS
     height: 200px;
     padding: 10px;
     margin: 0.5rem;
-    color: darkolivegreen;
+    color: black;
     font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI',SegoeUI,'Segoe WP',Tahoma,Arial,sans-serif;
     text-align: center;
-
 }
 
-/* .wrapper h1 {
-	
-    position: absolute;
-
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	margin-left: 0;
-} */
+.wrapper h1 {
+   line-height: 500rem;
+}
 
 .wrapper img {
   max-width: 100%;
@@ -60,7 +53,7 @@ nav ol {
 .sidebar nav a::after {
     /* position: absolute; */
     font-family: "FontAwesome";
-    font-size: 10px;
+    font-size: 15px;
     line-height: 30px;
 }
 
@@ -73,22 +66,25 @@ nav ol {
 }
 
 #mainav ul {
+    list-style: none;
     top: 30px;
 }
 
 #mainav ul ul {
+    list-style: none;
     z-index: 9999;
     position: absolute;
     width: 200px;
 }
 
 #mainav ul ul ul {
+    list-style: none;
     left: 200px;
     top: 0;
 }
 
 #mainav li {
-
+    list-style: none;
     display: inline-block;
     position: relative;
     margin: 0 20px 0 0;
@@ -100,6 +96,7 @@ nav ol {
 }
 
 #mainav li li {
+    list-style: none;
     width: 100%;
     margin: 0;
     /* text-align: left; */
@@ -107,11 +104,13 @@ nav ol {
 }
 
 #mainav li a {
+    list-style: none;
     /* display: block; */
     padding: 0;
 }
 
 #mainav li li a {
+    list-style: none;
     border: solid;
     border-width: 0 0 1px 0;
 }
@@ -170,12 +169,8 @@ nav ol {
 --------------------------------------------------------------------------------------------------------------- */
 
 
-#header button,
-#footer button {
-    border-radius: 0 8px 8px 0;
-}
-
 #mainav li li:last-child a {
+
     border-radius: 0 0 8px 8px;
 }
 
@@ -227,18 +222,20 @@ label span {
     color: #F9F9F9;
 }
 
-#mainav .active a,
+/* #mainav .active a,
 #mainav a:hover,
 #mainav li:hover > a {
     color: #55ABDA;
     background-color: inherit;
-}
+} */
 
-#mainav li li a,
+#mainav li li a:nth-child(odd),
 #mainav .active li a {
+    font-size: 21px;
     color: #FFFFFF;
-    background-color: rgba(0, 0, 0, .9);
-    border-color: rgba(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, 0.644);
+    border-color: rgba(255, 0, 234, 0.6);
+    
 }
 
 #mainav li li:hover > a,
@@ -257,7 +254,7 @@ label span {
             padding: 10px;
             margin: 0.5rem;
             font-size: 45px;
-            color: darkolivegreen;
+            color: black;
             /* font-size: 35px;
             font-family: 'Times New Roman', Times, serif;
             font-size-adjust: inherit; */
