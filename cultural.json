@@ -1,0 +1,1895 @@
+{
+    "cultural": [
+
+        {
+            "id": 1,
+            "title": "Dance",
+            "photograph": "1.jpg",
+            "description": " Dance, the movement of the body in a rhythmic way, usually to music and within a given space, for the purpose of expressing an idea or emotion, releasing energy, or simply taking delight in the movement itself.",
+            "Students": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }],
+            "Faculty": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }]
+
+        },
+        {
+            "id": 2,
+            "title": "Singing",
+            "photograph": "2.jpg",
+            "description": "Singers read and interpret musical compositions and apply their voice and style to create a song. ",
+            "Students": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }],
+            "Faculty": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }]
+
+
+
+        },
+        {
+            "id": 3,
+            "title": "Art",
+            "photograph": "3.jpg",
+            "description": "Art is a diverse range of human activities in creating intended to be appreciated for their beauty or emotional power.",
+            "Students": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }],
+            "Faculty": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }]
+
+        }, {
+            "id": 4,
+            "title": "Drama",
+            "photograph": "4.jpg",
+            "description": "Drama is a composition in verse or prose presenting a story in pantomime or dialogue.",
+
+            "Students": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }],
+            "Faculty": [{
+                "winners": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+                        "position": "First",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+                        "position": "Second",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+                        "position": "Third",
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+                ],
+
+                "participants": [{
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2017,
+                        "name": "Chaitanya Bharathi",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Aarav Braun",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2017,
+                        "name": "Malaika Vargas",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    },
+                    {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Precious Gilbert",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Aqib Anthony",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2018,
+                        "name": "Liyana Lynch",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Alessia Conway",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Luella Whitehouse",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }, {
+                        "year": 2019,
+                        "name": "Latisha Head",
+                        "department": "CSE",
+
+                        "linkedin": "linkedin.com",
+                        "contact": 9912696899,
+                        "mailId": "chait.bha@cbit.com"
+                    }
+
+                ]
+            }]
+
+        }
+
+
+
+    ]
+
+}

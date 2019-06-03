@@ -49,7 +49,8 @@ body {
 
 
 
-#sports-list {
+#sports-list,
+#cultural-list {
   
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -62,7 +63,8 @@ body {
   text-align: center;
   
 }
-#sports-list li {
+#sports-list li,
+#cultural-list li {
   background-color: #fff;
   border: 2px solid #ccc;
   margin: 15px;
@@ -71,7 +73,8 @@ body {
   text-align: left;
   width: 270px;
 }
-#sports-list .restaurant-img {
+#sports-list .restaurant-img ,
+#cultural-list .restaurant-img{
   background-color: #ccc;
   display: block;
   margin: 0;
@@ -79,7 +82,8 @@ body {
   min-height: 248px;
   min-width: 100%;
 }
-#sports-list li h1 {
+#sports-list li h1 ,
+#cultural-list li h1{
   color: var(--dark-color);
   font-family: Arial,sans-serif;
   font-size: 20pt;
@@ -89,12 +93,14 @@ body {
   margin: 20px 0 10px;
   text-transform: uppercase;
 }
-#sports-list p {
+#sports-list p ,
+#cultural-list p{
   font-family: 'Roboto', sans-serif;
   margin: 0;
   font-size: 11pt;
 }
-#sports-list li a {
+#sports-list li a ,
+#cultural-list a{
    background-color: var(--dark-color);
   border-bottom: 3px solid #eee;
   color: #fff;
@@ -119,7 +125,8 @@ body {
 
 
 @media (max-width: 960px) {
- #sports-list {
+ #sports-list ,
+ #cultural-list{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
@@ -127,14 +134,16 @@ body {
 }
 
 @media (max-width: 700px) {
-  #sports-list {
+  #sports-list,
+  #cultural-list {
     max-width: 100%;
 
     display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
 
-  #sports-list li {
+  #sports-list li ,
+  #cultural-list li{
     background-color: #fff;
     border: 2px solid #ccc;
     margin: 2px;
