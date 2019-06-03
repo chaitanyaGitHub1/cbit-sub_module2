@@ -31,7 +31,7 @@ createRestaurantHTML = (sport) => {
     const image = document.createElement('img');
     image.className = 'restaurant-img';
     
-    image.src = `/sports_img/${sport.photograph}`;
+    image.src = `sports_img/${sport.photograph}`;
     li.append(image);
 
 
