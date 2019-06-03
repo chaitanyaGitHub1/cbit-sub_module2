@@ -11,6 +11,7 @@ File: Layout CSS
 
 
 .wrapper {
+    background-color: whitesmoke;
 	position: relative;
 	z-index: 2;
     height: 200px;
@@ -19,7 +20,7 @@ File: Layout CSS
     color: darkolivegreen;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
-     text-align: center;
+    text-align: center;
 
 }
 
